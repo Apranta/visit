@@ -7,14 +7,13 @@
                         <li><a href="#" >See & Do</a></li>
                         <li><a href="#" >Events</a></li>
                         <li><a href="#" >Kuliner</a></li>
-                        <li><a href="#" >Lifestyle</a></li>
+                        <li><a href="#" >Belanja</a></li>
                         <li><a href="#" >Penginapan</a></li>
-                        <li><a href="#" >Transportasi</a></li>
-                        <li><a href="#" >Panduan Wisata</a></li>
-                        <li><a href="#" >Informasi</a></li>
+                        <li><a href="#" >Perjalanan</a></li>
+                        <li><a href="#" >Sarana Informasi</a></li>
                     </ul>
                 </div>
-                <div class="col-md-3 col-sm-3">
+                <div class="col-md-2 col-sm-3">
                     <h3>About</h3>
                     <ul>
                         <li><a href="#">About us</a></li>
@@ -25,21 +24,23 @@
                     </ul>
                 </div>
                 <div class="col-md-3 col-sm-3">
-                    <h3>Discover</h3>
-                    <ul>
-                        <li><a href="#">Community blog</a></li>
-                        <li><a href="#">Tour guide</a></li>
-                        <li><a href="#">Wishlist</a></li>
-                         <li><a href="#">Gallery</a></li>
-                    </ul>
+                    <h3>Settings</h3>
+                    <div class="styled-select">
+                        <select class="form-control" name="lang" id="lang">
+                            <option value="English" selected>English</option>
+                            <option value="French">French</option>
+                            <option value="Spanish">Spanish</option>
+                            <option value="Russian">Russian</option>
+                        </select>
+                    </div>
                 </div>
-                <div class="col-md-3 col-sm-3">
+                <div class="col-md-4 col-sm-3">
                     <h3>Need help?</h3>
                     <a href="tel://004542344599" id="phone">+628 96 9255 7552</a>
                     <a href="mailto:hallo@visitpalembang.id" id="email_footer">hallo@visitpalembang.id</a>
                 </div>
             </div><!-- End row -->
-            <hr><!-- 
+            <!-- 
             <div class="row">
                 <div class="col-md-12">
                     <h3>Pernah Diliput Oleh : </h3>
@@ -227,8 +228,8 @@
 		$('input.date-pick').datepicker('setDate', 'today');
 	</script>
 	<!-- Map -->
-	<script src="http://maps.googleapis.com/maps/api/js"></script>
-	<script src="js/map.js"></script>
+	<!-- <script src="http://maps.googleapis.com/maps/api/js"></script> -->
+	<!-- <script src="js/map.js"></script> -->
 	<!-- Carousel -->
 	<script src="js/owl.carousel.min.js"></script>
 	<script>
@@ -244,6 +245,8 @@
 	<!--Review modal validation -->
 	<script src="assets/validate.js"></script>
     <!-- <script src="http://maps.googleapis.com/maps/api/js"></script> -->
+<script src="js/map_full_page.js"></script>
+
     <script type="text/javascript" src="js/map_home.js"></script>
     <script type="text/javascript" src="js/infobox.js"></script>
     <script type="text/javascript" src="ayoshare/ayoshare.js"></script>

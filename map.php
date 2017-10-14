@@ -145,7 +145,7 @@
     <!-- Mobile menu overlay mask -->
 
     <!-- Header================================================== -->
-    <header >
+    <header id="plain">
         <div id="top_line">
             <div class="container">
                 <div class="row">
@@ -425,3 +425,37 @@
         </div><!-- container -->
     </header><!-- End Header -->
 	
+<div id="map" class="map" style="border-bottom:none; height:100%; width:100%; position:absolute; top:0; left:0;"></div>
+ <div id="map_filter">
+ 	<ul>
+		<li><a href="javascript:toggleMarkers('Historic');"><i class="icon_set_1_icon-44"></i><span>Historic Buildings</span></a></li>
+		<li><a href="javascript:toggleMarkers('Sightseeing');"><i class="icon_set_1_icon-3"></i><span>City sightseeing</span></a></li>
+		<li><a href="javascript:toggleMarkers('Museums');"><i class="icon_set_1_icon-4"></i><span>Museum</span></a></li>
+		<li><a href="javascript:toggleMarkers('Skyline');"><i class="icon_set_1_icon-28"></i><span>Skyline tours</span></a></li>
+		<li><a href="javascript:toggleMarkers('Eat_drink');"><i class="icon_set_1_icon-14"></i><span>Eat & Drink</span></a></li>
+		<li><a href="javascript:toggleMarkers('Walking');"><i class="icon_set_1_icon-37"></i><span>Walking tours</span></a></li>
+		<li><a href="javascript:toggleMarkers('Churches');"><i class="icon_set_1_icon-43"></i><span>Churces</span></a></li>
+	</ul>
+</div>
+	<!-- Search Menu -->
+	<div class="search-overlay-menu">
+		<span class="search-overlay-close"><i class="icon_set_1_icon-77"></i></span>
+		<form role="search" id="searchform" method="get">
+			<input value="" name="q" type="search" placeholder="Search..." />
+			<button type="submit"><i class="icon_set_1_icon-78"></i>
+			</button>
+		</form>
+	</div><!-- End Search Menu -->
+ 
+ <!-- Common scripts -->
+<script src="js/jquery-2.2.4.min.js"></script>
+<script src="js/common_scripts_min.js"></script>
+<script src="js/functions.js"></script>
+ <!-- Map --><script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCUSK3JydXzrDD_eiBdd4sGnnZui-JYte8&callback=initMap">
+    </script>
+<script src="js/map_full_page.js"></script>
+<script src="js/infobox.js"></script>
+
+
+  </body>
+</html>

@@ -172,7 +172,6 @@
 			<!-- End row -->			
 		</div>
 		<!-- End container -->
-        <hr>
         <div class="container margin_60">
 
             <div class="main_title">
@@ -263,7 +262,6 @@
                         <div class="img_container">
                             <a href="single_tour.html">
                                 <img src="img/tour_box_4.jpg" width="800" height="533" class="img-responsive" alt="image">
-                                <div class="badge_save">Save<strong>20%</strong></div>
                                 <div class="short_info">
                                     <i class="icon_set_1_icon-30"></i>Walking tour
                                 </div>
@@ -344,7 +342,6 @@
 			
         <div id="map" class="map"></div>
 		<!-- End container -->
-        <hr>
         <div class="container margin_60">
             <div class="banner colored add_bottom_30">
                 <h4>Discover our Top tours <span>from $34</span></h4>
@@ -395,7 +392,17 @@
                     </div>
                 </div>
         </div>
-        <hr>
+        <section class="promo_full">
+			<div class="promo_full_wp magnific">
+				<div>
+					<h3>BELONG ANYWHERE</h3>
+					<p>
+						Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset, doctus volumus explicari qui ex.
+					</p>
+					<a href="https://www.youtube.com/watch?v=Zz5cu72Gv5Y" class="video"><i class="icon-play-circled2-1"></i></a>
+				</div>
+			</div>
+		</section>
 	</main>
 	<!-- End main -->
     
