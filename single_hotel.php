@@ -1,6 +1,6 @@
 <?php include 'header.php' ?>
 
-<section class="parallax-window" data-parallax="scroll" data-image-src="img/single_hotel_bg_1.jpg" data-natural-width="1400" data-natural-height="470">
+	<section class="parallax-window" data-parallax="scroll" data-image-src="img/single_hotel_bg_1.jpg" data-natural-width="1400" data-natural-height="470">
 		<div class="parallax-content-2">
 			<div class="container">
 				<div class="row">
@@ -366,45 +366,7 @@
 					<p class="hidden-sm hidden-xs">
 						<a class="btn_map" data-toggle="collapse" href="#collapseMap" aria-expanded="false" aria-controls="collapseMap" data-text-swap="Hide map" data-text-original="View on map">View on map</a>
 					</p>
-					<div class="box_style_1 expose">
-						<h3 class="inner">Check Availability</h3>
-						<div class="row">
-							<div class="col-md-6 col-sm-6">
-								<div class="form-group">
-									<label><i class="icon-calendar-7"></i> Check in</label>
-									<input class="date-pick form-control" data-date-format="M d, D" type="text">
-								</div>
-							</div>
-							<div class="col-md-6 col-sm-6">
-								<div class="form-group">
-									<label><i class="icon-calendar-7"></i> Check out</label>
-									<input class="date-pick form-control" data-date-format="M d, D" type="text">
-								</div>
-							</div>
-						</div>
-						<div class="row">
-							<div class="col-md-6 col-sm-6">
-								<div class="form-group">
-									<label>Adults</label>
-									<div class="numbers-row">
-										<input type="text" value="1" id="adults" class="qty2 form-control" name="quantity">
-									</div>
-								</div>
-							</div>
-							<div class="col-md-6 col-sm-6">
-								<div class="form-group">
-									<label>Children</label>
-									<div class="numbers-row">
-										<input type="text" value="0" id="children" class="qty2 form-control" name="quantity">
-									</div>
-								</div>
-							</div>
-						</div>
-						<br>
-
-						<a class="btn_full" href="cart_hotel.html">Check now</a>
-						<a class="btn_full_outline" href="#"><i class=" icon-heart"></i> Add to whislist</a>
-					</div>
+					
 					<!--/box_style_1 -->
 
 					<div class="box_style_4">
@@ -413,13 +375,106 @@
 						<a href="tel://004542344599" class="phone">+45 423 445 99</a>
 						<small>Monday to Friday 9.00am - 7.30pm</small>
 					</div>
-
+					<div class="box_style_4">
+						<h4>More Info</h4>
+						<a href="#" title=""><i class="icon-facebook"></i></a>
+						<a href="#" title=""><i class="icon-instagram"></i></a>
+						<a href="#" title=""><i class="icon-youtube-play"></i></a>
+						<a href="#" title=""><i class="icon-globe"></i></a>
+					</div>
+					<div class="box_style_1 expose">
+						<h3 class="inner">Upcoming Event</h3>
+						<div class="row">
+							<div class="col-md-12">
+								<div class="tour_list_desc">
+									<h3><strong>Arch Triomphe</strong> tour <br><small><span>17 January 2017</span></small></h3>
+									<p>Lorem ipsum dolor sit amet, quem convenire interesset ut vix, ad dicat sanctus detracto vis. Eos modus dolorum ex, qui adipisci maiestatis inciderint no, eos in elit dicat.....</p>
+									<p>
+					                        	<div class="tooltip_styled tooltip-effect-4 pull-right">
+													<a href="single-event.php" class="btn_1 btn-xs">Details</a>
+												</div>
+					                        </p>
+								</div>
+							</div>
+						</div>
+						<hr>
+						<div class="row">
+							<div class="col-md-12">
+								<div class="tour_list_desc">
+									<h3><strong>Arch Triomphe</strong> tour <br><small><span>17 January 2017</span></small></h3>
+									<p>Lorem ipsum dolor sit amet, quem convenire interesset ut vix, ad dicat sanctus detracto vis. Eos modus dolorum ex, qui adipisci maiestatis inciderint no, eos in elit dicat.....</p>
+									<p>
+					                        	<div class="tooltip_styled tooltip-effect-4 pull-right">
+													<a href="single-event.php" class="btn_1 btn-xs">Details</a>
+												</div>
+					                        </p>
+								</div>
+							</div>
+						</div>
+						<hr>
+						<div class="row">
+							<div class="col-md-12">
+								<div class="tour_list_desc">
+									<h3><strong>Arch Triomphe</strong> tour <br><small><span>17 January 2017</span></small></h3>
+									<p>Lorem ipsum dolor sit amet, quem convenire interesset ut vix, ad dicat sanctus detracto vis. Eos modus dolorum ex, qui adipisci maiestatis inciderint no, eos in elit dicat.....</p>
+									<p>
+					                        	<div class="tooltip_styled tooltip-effect-4 pull-right">
+													<a href="single-event.php" class="btn_1 btn-xs">Details</a>
+												</div>
+					                        </p>
+								</div>
+							</div>
+						</div>
+						<a class="btn_full" href="event.php">See More</a>
+					</div>
 				</aside>
 			</div>
 			<!--End row -->
 		</div>
 		<!--End container -->
-        
+        <div class="container margin_60">
+            <div class="main_title">
+                <h2><span>Lihat Hotel Lainnya</span></h2>
+            </div>
+            <div class="row">
+                    <div class="col-md-3 col-sm-6 text-center">
+                        <p>
+                            <a href="#"><img src="img/new/artikel1.jpg" alt="Pic" class="img-responsive"></a>
+                        </p>
+                        <h4><span>Sightseen tour</span> booking</h4>
+                        <p>
+                            Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset, doctus volumus explicari qui ex.
+                        </p>
+                    </div>
+                    <div class="col-md-3 col-sm-6 text-center">
+                        <p>
+                            <a href="#"><img src="img/new/artikel2.jpg" alt="Pic" class="img-responsive"></a>
+                        </p>
+                        <h4><span>Transfer</span> booking</h4>
+                        <p>
+                            Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset, doctus volumus explicari qui ex.
+                        </p>
+                    </div>
+                    <div class="col-md-3 col-sm-6 text-center">
+                        <p>
+                            <a href="#"><img src="img/new/artikel3.jpg" alt="Pic" class="img-responsive"></a>
+                        </p>
+                        <h4><span>Tour guide</span> booking</h4>
+                        <p>
+                            Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset, doctus volumus explicari qui ex.
+                        </p>
+                    </div>
+                    <div class="col-md-3 col-sm-6 text-center">
+                        <p>
+                            <a href="#"><img src="img/new/artikel4.jpg" alt="Pic" class="img-responsive"></a>
+                        </p>
+                        <h4><span>Hotel</span> booking</h4>
+                        <p>
+                            Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset, doctus volumus explicari qui ex.
+                        </p>
+                    </div>
+                </div>
+        </div>
         <div id="overlay"></div>
 		<!-- Mask on input focus -->
     

@@ -7,7 +7,7 @@
 				<p>Ridiculus sociosqu cursus neque cursus curae ante scelerisque vehicula.</p>
 			</div>
 		</div>
-	</section>
+</section>
 	<!-- End section -->
 
 	<main>
@@ -95,9 +95,16 @@
 				<!-- End aside -->
 
 				<div class="col-md-9">
+					<div id="tools">
+						<div class="row">
+							<div class="col-md-6 col-sm-6 hidden-xs text-right">
+								<a href="artikel-grid.php" class="bt_filters"><i class="icon-th"></i></a> <a href="#" class="bt_filters"><i class=" icon-list"></i></a>
+							</div>
+						</div>
+					</div>
 					<div class="box_style_1">
 						<div class="post">
-							<a href="blog_post.html" title="blog_post.html"><img src="img/blog-3.jpg" alt="Image" class="img-responsive">
+							<a href="blog_post.php" title="blog_post.php"><img src="img/blog-3.jpg" alt="Image" class="img-responsive">
 							</a>
 							<div class="post_info clearfix">
 								<div class="post-left">
@@ -120,14 +127,14 @@
 							<p>
 								Ludus albucius adversarium eam eu. Sit eu reque tation aliquip. Quo no dolorum albucius lucilius, hinc eligendi ut sed. Ex nam quot ferri suscipit, mea ne legere alterum repudiandae. Ei pri quaerendum intellegebat, ut vel consequuntur voluptatibus. Et volumus sententiae adversarium duo......
 							</p>
-							<a href="blog_post.html" class="btn_1" title="blog_post.html">Read more</a>
+							<a href="blog_post.php" class="btn_1" title="blog_post.php">Read more</a>
 						</div>
 						<!-- end post -->
 
 						<hr>
 
 						<div class="post">
-							<a href="blog_post.html" title="blog_post.html"><img src="img/blog-1.jpg" alt="Image" class="img-responsive">
+							<a href="blog_post.php" title="blog_post.php"><img src="img/blog-1.jpg" alt="Image" class="img-responsive">
 							</a>
 							<div class="post_info clearfix">
 								<div class="post-left">
@@ -146,14 +153,14 @@
 							<p>
 								Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem.....
 							</p>
-							<a href="blog_post.html" class=" btn_1">Read more</a>
+							<a href="blog_post.php" class=" btn_1">Read more</a>
 						</div>
 						<!-- end post -->
 
 						<hr>
 
 						<div class="post">
-							<a href="blog_post.html" title="blog_post.html"><img src="img/blog-2.jpg" alt="Image" class="img-responsive">
+							<a href="blog_post.php" title="blog_post.php"><img src="img/blog-2.jpg" alt="Image" class="img-responsive">
 							</a>
 							<div class="post_info clearfix">
 								<div class="post-left">
@@ -175,7 +182,7 @@
 							<p>
 								Ludus albucius adversarium eam eu. Sit eu reque tation aliquip. Quo no dolorum albucius lucilius, hinc eligendi ut sed. Ex nam quot ferri suscipit, mea ne legere alterum repudiandae. Ei pri quaerendum intellegebat, ut vel consequuntur voluptatibus. Et volumus sententiae adversarium duo......
 							</p>
-							<a href="blog_post.html" class="btn_1" title="blog_post.html">Read more</a>
+							<a href="blog_post.php" class="btn_1" title="blog_post.php">Read more</a>
 						</div>
 						<!-- end post -->
 					</div>

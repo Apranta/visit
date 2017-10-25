@@ -204,21 +204,18 @@
                         </div>
                         <a href="#" class="open_close" id="close_in"><i class="icon_set_1_icon-77"></i></a>
                         <ul>
-                            <li><a href="#">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li class="megamenu submenu">
                                 <a href="javascript:void(0);" class="show-submenu-mega">See & Do<i class="icon-down-open-mini"></i></a>
                                 <div class="menu-wrapper">
                                     <div class="col-md-4">
-                                        <h3>Pages</h3>
+                                        <h3>Menu</h3>
                                         <ul>
-                                            <li><a href="#">Daerah Sekitar</a></li>
-                                            <li><a href="all_tours_grid.html">Seni</a></li>
-                                            <li><a href="all_tours_map_listing.html">Sejarah</a></li>
-                                            <li><a href="single_tour.html">Arsitektur</a></li>
-                                            <li><a href="single_tour_with_gallery.html">Budaya</a></li>
-                                            <li><a href="single_tour_working_booking.php">Rekreasi dan Bersantai</a></li>
-                                            <li><a href="cart.html">Alam dan Margasatwa</a></li>
-                                            <li><a href="payment.html">Melalui Palembang</a></li>
+                                            <li><a href="map.php">Peta Wisata</a></li>
+                                            <li><a href="#">Religi</a></li>
+                                            <li><a href="#">Sejarah</a></li>
+                                            <li><a href="#">Olahraga</a></li>
+                                            <li><a href="#">Seni dan Budaya</a></li>
                                         </ul>
                                     </div>
                                     <div class="col-md-8">
@@ -226,37 +223,38 @@
 
                                         <div class="row">
                                             <div class="col-md-4">
-                                                <p>
+                                                
                                                 <img src="img/bus.jpg" alt="Pic" class="img img-responsive">
-                                                <h4><span>Sightseen tour</span> booking</h4>
-                                                </p>
+                                                <h4><a href="artikel.php" title=""><span>Sightseen tour</span> booking</a></h4>
+                                                
                                             </div>
                                             <div class="col-md-4">
-                                                <p>
+                                                
                                                 <img src="img/bus.jpg" alt="Pic" class="img img-responsive">
-                                                <h4><span>Sightseen tour</span> booking</h4>
-                                                </p>
+                                                <h4><a href="artikel.php" title=""><span>Sightseen tour</span> booking</a></h4>
+                                                
                                             </div>
                                             <div class="col-md-4">
-                                                <p>
+                                                
                                                 <img src="img/bus.jpg" alt="Pic" class="img img-responsive">
-                                                <h4><span>Sightseen tour</span> booking</h4>
-                                                </p>
+                                                <h4><a href="artikel.php" title=""><span>Sightseen tour</span> booking</a></h4>
+                                                
                                             </div>
                                         </div>
+                                        <h4 class="pull-right"><a href="artikel.php" title="">Lihat Lainnya >></a></h4>
                                     </div>
                                 </div>
                             </li>
-                            <li><a href="#">Events</a></li>
+                            <li><a href="event.php">Events</a></li>
                             <li class="megamenu submenu">
                                 <a href="javascript:void(0);" class="show-submenu">Kuliner <i class="icon-down-open-mini"></i></a>
                                 <div class="menu-wrapper">
                                     <div class="col-md-4">
                                         <h3>Pages</h3>
                                         <ul>
-                                            <li><a href="all_transfer_list.html">Khas Palembang </a></li>
-                                            <li><a href="all_transfer_grid.html">Cafe Nongkrong</a></li>
-                                            <li><a href="single_transfer.html">Restoran</a></li>
+                                            <li><a href="#">Khas Palembang </a></li>
+                                            <li><a href="#">Cafe Nongkrong</a></li>
+                                            <li><a href="#">Restoran</a></li>
                                         </ul>
                                     </div>
                                     <div class="col-md-8">
@@ -264,24 +262,25 @@
 
                                         <div class="row">
                                             <div class="col-md-4">
-                                                <p>
+                                                
                                                 <img src="img/bus.jpg" alt="Pic" class="img img-responsive">
-                                                <h4><span>Sightseen tour</span> booking</h4>
-                                                </p>
+                                                <h4><a href="artikel.php" title=""><span>Sightseen tour</span> booking</a></h4>
+                                                
                                             </div>
                                             <div class="col-md-4">
-                                                <p>
+                                                
                                                 <img src="img/bus.jpg" alt="Pic" class="img img-responsive">
-                                                <h4><span>Sightseen tour</span> booking</h4>
-                                                </p>
+                                                <h4><a href="artikel.php" title=""><span>Sightseen tour</span> booking</a></h4>
+                                                
                                             </div>
                                             <div class="col-md-4">
-                                                <p>
+                                                
                                                 <img src="img/bus.jpg" alt="Pic" class="img img-responsive">
-                                                <h4><span>Sightseen tour</span> booking</h4>
-                                                </p>
+                                                <h4><a href="artikel.php" title=""><span>Sightseen tour</span> booking</a></h4>
+                                                
                                             </div>
                                         </div>
+                                        <h4 class="pull-right"><a href="artikel.php" title="">Lihat Lainnya >></a></h4>
                                     </div>
                                 </div>
                             </li>
@@ -291,11 +290,11 @@
                                     <div class="col-md-4">
                                         <h3>Pages</h3>
                                         <ul>
-                                            <li><a href="all_transfer_list.html">Souvenir</a></li>
-                                            <li><a href="all_transfer_grid.html">Fashion</a></li>
-                                            <li><a href="single_transfer.html">Kerajinan</a></li>
-                                            <li><a href="single_transfer.html">Mall</a></li>
-                                            <li><a href="single_transfer.html">Pasar Tradisional</a></li>
+                                            <li><a href="#">Souvenir</a></li>
+                                            <li><a href="#">Fashion</a></li>
+                                            <li><a href="#">Kerajinan</a></li>
+                                            <li><a href="#">Mall</a></li>
+                                            <li><a href="#">Pasar Tradisional</a></li>
                                         </ul>
                                     </div>
                                     <div class="col-md-8">
@@ -303,24 +302,23 @@
 
                                         <div class="row">
                                             <div class="col-md-4">
-                                                <p>
                                                 <img src="img/bus.jpg" alt="Pic" class="img img-responsive">
-                                                <h4><span>Sightseen tour</span> booking</h4>
-                                                </p>
+                                               <h4><a href="artikel.php" title=""><span>Sightseen tour</span> booking</a></h4>
                                             </div>
                                             <div class="col-md-4">
-                                                <p>
+                                                
                                                 <img src="img/bus.jpg" alt="Pic" class="img img-responsive">
-                                                <h4><span>Sightseen tour</span> booking</h4>
-                                                </p>
+                                                <h4><a href="artikel.php" title=""><span>Sightseen tour</span> booking</a></h4>
+                                                
                                             </div>
                                             <div class="col-md-4">
-                                                <p>
+                                                
                                                 <img src="img/bus.jpg" alt="Pic" class="img img-responsive">
-                                                <h4><span>Sightseen tour</span> booking</h4>
-                                                </p>
+                                                <h4><a href="artikel.php" title=""><span>Sightseen tour</span> booking</a></h4>
+                                                
                                             </div>
                                         </div>
+                                        <h4 class="pull-right"><a href="artikel.php" title="">Lihat Lainnya >></a></h4>
                                     </div>
                                 </div>
                             </li>
@@ -330,9 +328,9 @@
                                     <div class="col-md-4">
                                         <h3>Pages</h3>
                                         <ul>
-                                            <li><a href="all_transfer_list.html">Hotel</a></li>
-                                            <li><a href="all_transfer_grid.html">Homestay</a></li>
-                                            <li><a href="single_transfer.html">Hospitality</a></li>
+                                            <li><a href="hotel.php">Hotel</a></li>
+                                            <li><a href="hotel.php">Homestay</a></li>
+                                            <li><a href="hotel.php">Hospitality</a></li>
                                         </ul>
                                     </div>
                                     <div class="col-md-8">
@@ -340,24 +338,25 @@
 
                                         <div class="row">
                                             <div class="col-md-4">
-                                                <p>
+                                                
                                                 <img src="img/bus.jpg" alt="Pic" class="img img-responsive">
-                                                <h4><span>Sightseen tour</span> booking</h4>
-                                                </p>
+                                                <h4><a href="artikel.php" title=""><span>Sightseen tour</span> booking</a></h4>
+                                                
                                             </div>
                                             <div class="col-md-4">
-                                                <p>
+                                                
                                                 <img src="img/bus.jpg" alt="Pic" class="img img-responsive">
-                                                <h4><span>Sightseen tour</span> booking</h4>
-                                                </p>
+                                                <h4><a href="artikel.php" title=""><span>Sightseen tour</span> booking</a></h4>
+                                                
                                             </div>
                                             <div class="col-md-4">
-                                                <p>
+                                                
                                                 <img src="img/bus.jpg" alt="Pic" class="img img-responsive">
-                                                <h4><span>Sightseen tour</span> booking</h4>
-                                                </p>
+                                                <h4><a href="artikel.php" title=""><span>Sightseen tour</span> booking</a></h4>
+                                                
                                             </div>
                                         </div>
+                                        <h4 class="pull-right"><a href="artikel.php" title="">Lihat Lainnya >></a></h4>
                                     </div>
                                 </div>
                             </li>
@@ -367,11 +366,11 @@
                                     <div class="col-md-4">
                                         <h3>Pages</h3>
                                         <ul>
-                                            <li><a href="all_transfer_list.html">Tour And Travel </a></li>
-                                            <li><a href="all_transfer_grid.html">Rental Mobil</a></li>
-                                            <li><a href="single_transfer.html">Transportasi Umum</a></li>
-                                            <li><a href="single_transfer.html">Akses</a></li>
-                                            <li><a href="single_transfer.html">Itenerary</a></li>
+                                            <li><a href="#">Tour And Travel </a></li>
+                                            <li><a href="#">Rental Mobil</a></li>
+                                            <li><a href="#">Transportasi Umum</a></li>
+                                            <li><a href="#">Akses</a></li>
+                                            <li><a href="#">Itenerary</a></li>
                                         </ul>
                                     </div>
                                     <div class="col-md-8">
@@ -379,36 +378,37 @@
 
                                         <div class="row">
                                             <div class="col-md-4">
-                                                <p>
+                                                
                                                 <img src="img/bus.jpg" alt="Pic" class="img img-responsive">
-                                                <h4><span>Sightseen tour</span> booking</h4>
-                                                </p>
+                                                <h4><a href="artikel.php" title=""><span>Sightseen tour</span> booking</a></h4>
+                                                
                                             </div>
                                             <div class="col-md-4">
-                                                <p>
+                                                
                                                 <img src="img/bus.jpg" alt="Pic" class="img img-responsive">
-                                                <h4><span>Sightseen tour</span> booking</h4>
-                                                </p>
+                                                <h4><a href="artikel.php" title=""><span>Sightseen tour</span> booking</a></h4>
+                                                
                                             </div>
                                             <div class="col-md-4">
-                                                <p>
+                                                
                                                 <img src="img/bus.jpg" alt="Pic" class="img img-responsive">
-                                                <h4><span>Sightseen tour</span> booking</h4>
-                                                </p>
+                                                <h4><a href="artikel.php" title=""><span>Sightseen tour</span> booking</a></h4>
+                                                
                                             </div>
                                         </div>
+                                        <h4 class="pull-right"><a href="artikel.php" title="">Lihat Lainnya >></a></h4>
                                     </div>
                                 </div>
                             </li>
                             <li class="submenu">
                                 <a href="javascript:void(0);" class="show-submenu">Sarana Informasi <i class="icon-down-open-mini"></i></a>
                                 <ul>
-                                    <li><a href="all_transfer_list.html">Panduan Wisata</a></li>
-                                    <li><a href="all_transfer_grid.html">Dinas Kota</a></li>
-                                    <li><a href="single_transfer.html">Perkantoran</a></li>
-                                    <li><a href="cart_transfer.html">Media Partner</a></li>
-                                    <li><a href="payment_transfer.html">Artikel</a></li>
-                                    <li><a href="confirmation_transfer.html">Kontak</a></li>
+                                    <li><a href="#">Panduan Wisata</a></li>
+                                    <li><a href="#">Dinas Kota</a></li>
+                                    <li><a href="#">Perkantoran</a></li>
+                                    <li><a href="#">Media Partner</a></li>
+                                    <li><a href="#">Artikel</a></li>
+                                    <li><a href="#">Kontak</a></li>
                                 </ul>
                             </li>
                         </ul>
